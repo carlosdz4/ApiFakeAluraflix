@@ -113,11 +113,6 @@
       "id": 3,
       "nombre": "Innovacion y Gestion",
       "color": "#FFBA05"
-    },
-    {
-      "id": 4,
-      "nombre": "Data Science",
-      "color": "#f87308"
     }
   ]
 }
